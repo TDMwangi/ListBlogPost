@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# List Blog Post
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple project that displays a list of blog users.
 
 ## Available Scripts
 
