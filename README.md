@@ -35,3 +35,5 @@ Add the following to src/index.css:
 @tailwind components;
 @tailwind utilities;
 ```
+
+![image info](./img/17.png)
