@@ -36,4 +36,4 @@ Add the following to src/index.css:
 @tailwind utilities;
 ```
 
-![image info](./img/17.png)
+![image info](https://github.com/TDMwangi/list-blog-post/blob/main/src/img/list-blog.png)
